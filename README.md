@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:6DB6D6&height=200&section=header&text=Nallagonda%20Surya%20Pranav&fontSize=40&fontColor=FFFFFF&desc=Full-Stack%20Developer%20(MERN)%20%7C%20Founding%20Engineer%20%40%20Entrext&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:6DB6D6&height=200&section=header&text=Nallagonda%20Surya%20Pranav&fontSize=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20(MERN)&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=6DB6D6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN)+%7C+Founding+Engineer+%40+Entrext;%24+stack+--list;%3E+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Tailwind;%24+status+--current;%3E+Building+DSAfeed+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=6DB6D6&center=true&vCenter=true&multiline=true&width=750&height=200&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN);%24+role+--current;%3E+Founding+Engineer+%40+Entrext;%24+stack+--list;%3E+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Tailwind;%24+status;%3E+Building+DSAfeed+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
