@@ -208,11 +208,11 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <div align="center">
 
-<img src="https://github-readme-summary-cards.vercel.app/api/?username=Pranav3782&theme=github_dark_dimmed" width="100%"/>
-<img src="https://github-readme-summary-cards.vercel.app/api/top-langs/?username=Pranav3782&theme=github_dark_dimmed" width="49%"/>
-<img src="https://github-readme-summary-cards.vercel.app/api/most-commit-language/?username=Pranav3782&theme=github_dark_dimmed" width="49%"/>
-<img src="https://github-readme-summary-cards.vercel.app/api/stats/?username=Pranav3782&theme=github_dark_dimmed" width="49%"/>
-<img src="https://github-readme-summary-cards.vercel.app/api/productive-time/?username=Pranav3782&theme=github_dark_dimmed&utcOffset=5.5" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav3782&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranav3782&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranav3782&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranav3782&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranav3782&theme=github_dark&utcOffset=5.5" width="49%"/>
 
 </div>
 
