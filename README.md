@@ -194,29 +194,6 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <br/>
 
-### `$ github-analytics --render`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav3782&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6DB6D6&icon_color=6DB6D6&text_color=C9D1D9&ring_color=6DB6D6" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Pranav3782&theme=dark&hide_border=true&background=0D1117&ring=6DB6D6&fire=6DB6D6&currStreakLabel=6DB6D6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3782&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=6DB6D6&text_color=C9D1D9" width="49%"/>
-
-</div>
-
-<br/>
-
-### `$ trophies --render`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pranav3782&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8)
-
-</div>
-
-<br/>
-
 ### `$ activity-graph --render`
 
 <div align="center">
