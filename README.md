@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:6DB6D6&height=200&section=header&text=Nallagonda%20Surya%20Pranav&fontSize=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20(MERN)&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:C1702A&height=200&section=header&text=Nallagonda%20Surya%20Pranav&fontSize=38&fontColor=FFFFFF&desc=Full-Stack%20Developer%20(MERN)&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=6DB6D6&center=true&vCenter=true&multiline=true&width=750&height=200&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN);%24+role+--current;%3E+Founding+Engineer+%40+Entrext;%24+stack+--list;%3E+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Tailwind;%24+status;%3E+Building+DSAfeed+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-![Degree](https://img.shields.io/badge/Degree-B.Tech_IT-6DB6D6?style=flat-square)
-![University](https://img.shields.io/badge/University-MVSR_Engineering_College-6DB6D6?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C_India-6DB6D6?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=C1702A&center=true&vCenter=true&multiline=true&width=750&height=200&lines=%24+whoami;%3E+Full-Stack+Developer+(MERN);%24+role+--current;%3E+Founding+Engineer+%40+Entrext;%24+stack+--list;%3E+React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Tailwind;%24+status;%3E+Building+DSAfeed+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6DB6D6?style=for-the-badge&logo=vercel&logoColor=white)](https://surya.is-cool.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6DB6D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryapranav13)
-[![Email](https://img.shields.io/badge/EMAIL-6DB6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.nallagonda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-6DB6D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3782)
+![Degree](https://img.shields.io/badge/Degree-B.Tech_IT-C1702A?style=flat-square)
+![University](https://img.shields.io/badge/University-MVSR_Engineering_College-C1702A?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C_India-C1702A?style=flat-square)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranav3782&color=6DB6D6&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Pranav3782?style=flat-square&color=6DB6D6&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Pranav3782?style=flat-square&color=6DB6D6&label=STARS)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C1702A?style=for-the-badge&logo=vercel&logoColor=white)](https://surya.is-cool.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C1702A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryapranav13)
+[![Email](https://img.shields.io/badge/EMAIL-C1702A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.nallagonda@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-C1702A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3782)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pranav3782&color=C1702A&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Pranav3782?style=flat-square&color=C1702A&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Pranav3782?style=flat-square&color=C1702A&label=STARS)
 
 </div>
 
@@ -57,11 +57,11 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <div align="center">
 
-![MERN Stack](https://img.shields.io/badge/MERN_STACK-6DB6D6?style=for-the-badge)
-![AI Apps](https://img.shields.io/badge/AI--POWERED_APPS-6DB6D6?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/FULL--STACK_DEVELOPMENT-6DB6D6?style=for-the-badge)
-![Founding Engineer](https://img.shields.io/badge/FOUNDING_ENGINEER-6DB6D6?style=for-the-badge)
-![Product Thinking](https://img.shields.io/badge/PRODUCT_THINKING-6DB6D6?style=for-the-badge)
+![MERN Stack](https://img.shields.io/badge/MERN_STACK-C1702A?style=for-the-badge)
+![AI Apps](https://img.shields.io/badge/AI--POWERED_APPS-C1702A?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/FULL--STACK_DEVELOPMENT-C1702A?style=for-the-badge)
+![Founding Engineer](https://img.shields.io/badge/FOUNDING_ENGINEER-C1702A?style=for-the-badge)
+![Product Thinking](https://img.shields.io/badge/PRODUCT_THINKING-C1702A?style=for-the-badge)
 
 </div>
 
@@ -178,7 +178,7 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.Tech_Information_Technology-MVSR_Engineering_College-6DB6D6?style=for-the-badge)
+![Education](https://img.shields.io/badge/B.Tech_Information_Technology-MVSR_Engineering_College-C1702A?style=for-the-badge)
 
 </div>
 
@@ -188,7 +188,7 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <div align="center">
 
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-6DB6D6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/suryanallagonda123?tab=overview)
+[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-C1702A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/suryanallagonda123?tab=overview)
 
 </div>
 
@@ -198,7 +198,7 @@ OPEN_TO  = ["Frontend", "Full-Stack", "Remote", "On-site"]
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav3782&bg_color=0D1117&color=6DB6D6&line=6DB6D6&point=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav3782&bg_color=0D1117&color=C1702A&line=C1702A&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -253,15 +253,15 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6DB6D6?style=for-the-badge&logo=vercel&logoColor=white)](https://surya.is-cool.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6DB6D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryapranav13)
-[![Email](https://img.shields.io/badge/EMAIL-6DB6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.nallagonda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-6DB6D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3782)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-C1702A?style=for-the-badge&logo=vercel&logoColor=white)](https://surya.is-cool.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-C1702A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryapranav13)
+[![Email](https://img.shields.io/badge/EMAIL-C1702A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya.nallagonda@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-C1702A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3782)
 
 <br/>
 
 *"Turning curiosity into code — one feature, one deployment, one problem at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:6DB6D6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:C1702A&height=120&section=footer" width="100%"/>
 
 </div>
